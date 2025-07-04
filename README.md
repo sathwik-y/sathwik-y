@@ -15,7 +15,7 @@
 ---
 
 ### Currently Working On
-- Automation agets with **n8n**
+- Automation agents with **n8n**
 - AI tools that don’t suck
 - Spring Microservices
 
